@@ -1,0 +1,16 @@
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.exe
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.deps.json
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.runtimeconfig.json
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.runtimeconfig.dev.json
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.dll
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\ref\PALABRAS.dll
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\bin\Debug\net5.0\PALABRAS.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.csprojAssemblyReference.cache
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.AssemblyInfoInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.AssemblyInfo.cs
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.csproj.CoreCompileInputs.cache
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.dll
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\ref\PALABRAS.dll
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.pdb
+C:\Users\vp45640\Documents\cosas de gustavo\PALABRAS\obj\Debug\net5.0\PALABRAS.genruntimeconfig.cache
